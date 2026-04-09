@@ -2,30 +2,21 @@
 
 **`FullStack Developer`**
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=PauloD13&show_icons=true" 
-  />
+Programador em estudos, executo projetos individuais. Atualmente usando JS como linguagem principal e estudando Java
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloD13&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+> Trabalhando em projeto full-stack com JavaScript
+> Node.js, Express.js, React Natives
 
-</p>
+<hr>
+![Metrics](./assets/metrics.svg)
+<hr>
 
 <br/>
 <br/>
 
 ---
 
-### Stack
+### 📌 My Stack
 <img 
     align="left" 
     alt="Java" 
@@ -118,4 +109,4 @@
 <br/>
 <br/>
 <br/>
-<hr><hr>
+<hr>
