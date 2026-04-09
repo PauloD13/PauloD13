@@ -9,7 +9,7 @@ Programador em estudos, executo projetos individuais. Atualmente usando JS como 
 
 <hr>
 
-📊 Estatisticas
+### 📊 Estatisticas
 
 ![Metrics](./assets/metrics.svg)
 
