@@ -2,7 +2,7 @@
 
 **`FullStack Developer`**
 
-Programador em estudos, executo projetos individuais. Atualmente usando JS como linguagem principal e estudando Java
+Programador e estudante, executo projetos individuais. Atualmente usando JS como linguagem principal e estudando Java
 
 > Trabalhando em projeto full-stack com JavaScript <br/>
 > Node.js, Express.js, React Natives
