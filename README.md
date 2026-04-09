@@ -13,8 +13,6 @@ Programador em estudos, executo projetos individuais. Atualmente usando JS como 
 
 ![Metrics](./assets/metrics.svg)
 
-<hr>
-
 <br/>
 <br/>
 
