@@ -8,7 +8,11 @@ Programador em estudos, executo projetos individuais. Atualmente usando JS como 
 > Node.js, Express.js, React Natives
 
 <hr>
+
+# 📊Estatisticas
+
 ![Metrics](./assets/metrics.svg)
+
 <hr>
 
 <br/>
