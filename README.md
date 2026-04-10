@@ -9,10 +9,6 @@ Programador e estudante, executo projetos individuais. Atualmente usando JS como
 
 <hr>
 
-### 📊 Estatisticas
-
-![Metrics](./assets/metrics.svg)
-
 <br/>
 <br/>
 
@@ -110,5 +106,10 @@ Programador e estudante, executo projetos individuais. Atualmente usando JS como
 
 <br/>
 <br/>
+
+### 📊 Estatisticas
+
+![Metrics](./assets/metrics.svg)
+
 <br/>
 <hr>
