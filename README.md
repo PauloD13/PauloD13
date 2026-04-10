@@ -4,7 +4,7 @@
 
 Programador e estudante, executo projetos individuais. Atualmente usando JS como linguagem principal e estudando Java
 
-
+<br/>
 
 > Trabalhando em projeto full-stack com JavaScript <br/>
 > Node.js, Express.js, React Natives
