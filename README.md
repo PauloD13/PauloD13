@@ -7,9 +7,6 @@ Programador e estudante, executo projetos individuais. Atualmente usando JS como
 > Trabalhando em projeto full-stack com JavaScript <br/>
 > Node.js, Express.js, React Natives
 
-<hr>
-
-<br/>
 <br/>
 
 ---
@@ -103,9 +100,10 @@ Programador e estudante, executo projetos individuais. Atualmente usando JS como
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
-
+---
 <br/>
 <br/>
+---
 
 ### 📊 Estatisticas
 
