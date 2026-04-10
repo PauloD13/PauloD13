@@ -1,6 +1,7 @@
 # Paulo Demeris
 
 **`FullStack Developer`**
+<br/>
 
 Programador e estudante, executo projetos individuais. Atualmente usando JS como linguagem principal e estudando Java
 
