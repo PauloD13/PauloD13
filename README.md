@@ -110,7 +110,7 @@ Programador e estudante, executo projetos individuais. Atualmente usando JS como
 
 ### 📊 Estatisticas
 
-  <img height="180px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=PauloD13&layout=compact&theme=dracula"/> <img height="180px" src="https://github-trophies.vercel.app/?username=PauloD13&theme=tokyonight&row=1&column=3"/>
+  <img height="180px" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=PauloD13&layout=compact&theme=dracula"/>  <img height="180px" src="https://github-trophies.vercel.app/?username=PauloD13&theme=tokyonight&row=1&column=3"/>
 
   <img height="180px" src="https://github-readme-stats-one-bice.vercel.app/api?username=PauloD13&show_icons=true&theme=dracula&include_all_commits=true&rank_icon=github"/>
 
