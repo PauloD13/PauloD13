@@ -93,7 +93,7 @@ Programador e estudante, executo projetos individuais. Atualmente usando JS como
     title="Nest.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" 
 />
 <img 
     align="left" 
@@ -125,7 +125,7 @@ Programador e estudante, executo projetos individuais. Atualmente usando JS como
     title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg
 />
 <img 
     align="left" 
