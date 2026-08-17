@@ -101,7 +101,7 @@ Programador e estudante, executo projetos individuais. Atualmente usando JS como
     title="Express.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"
 />
 <img 
     align="left" 
