@@ -121,19 +121,19 @@ Programador e estudante, executo projetos individuais. Atualmente usando JS como
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="AWS" 
+    title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="BashScript" 
+    title="BashScript"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg"
 />
 <br/>
 <br/>
