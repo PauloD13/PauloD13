@@ -149,7 +149,6 @@ Programador e estudante, executo projetos individuais. Atualmente usando JS como
       <br/>
       <br/>
       <br/>
-      <img height="180px" src="https://github-trophies.vercel.app/?username=PauloD13&theme=tokyonight&row=1&column=3"/>
   </div>
 <br/>
 <hr>
