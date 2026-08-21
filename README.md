@@ -14,7 +14,7 @@ Programador e estudante, executo projetos individuais. Atualmente usando JS como
 
 ---
 
-### 📌 My Stack
+### 📌 My Technologies
 <img 
     align="left" 
     alt="Java" 
