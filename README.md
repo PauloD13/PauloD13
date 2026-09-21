@@ -129,6 +129,8 @@ P.Demeris@GitHub
 
 <div align="center">
 
+<div align="center">
+
 <img
   src="./profile/stats.svg"
   height="180"
