@@ -184,7 +184,7 @@ P.Demeris@GitHub
 
 ## Contribution
 
-<div align="center">
+<p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -201,7 +201,7 @@ P.Demeris@GitHub
       alt="GitHub Contribution Snake"
     />
   </picture>
-</div>
+</p>
 
 ---
 
