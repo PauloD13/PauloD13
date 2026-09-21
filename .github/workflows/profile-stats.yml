@@ -1,95 +1,23 @@
-name: Update Profile Stats
+name: Test Profile Workflow
 
 on:
-schedule:
-- cron: "0 0 * * *"
+  push:
+    branches:
+      - main
 
-workflow_dispatch:
+  workflow_dispatch:
 
 permissions:
-contents: write
+  contents: write
 
 jobs:
-stats:
-runs-on: ubuntu-latest
+  test:
+    runs-on: ubuntu-latest
 
-steps:
-  - name: Checkout
-    uses: actions/checkout@v6
-
-  - name: Generate GitHub Stats
-    uses: stats-organization/github-readme-stats-action@v2
-    with:
-      card: stats
-      options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0B0F14&title_color=7DD3FC&text_color=CBD5E1&icon_color=38BDF8
-      path: profile/stats.svg
-      token: ${{ secrets.GITHUB_TOKEN }}
-
-  - name: Generate Top Languages
-    uses: stats-organization/github-readme-stats-action@v2
-    with:
-      card: top-langs
-      options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&bg_color=0B0F14&title_color=7DD3FC&text_color=CBD5E1
-      path: profile/top-langs.svg
-      token: ${{ secrets.GITHUB_TOKEN }}
-
-  - name: Generate WebAppliSocialViolenceGame
-    uses: stats-organization/github-readme-stats-action@v2
-    with:
-      card: pin
-      options: username=${{ github.repository_owner }}&repo=WebAppliSocialViolenceGame&hide_border=true&bg_color=0B0F14&title_color=7DD3FC&text_color=CBD5E1&icon_color=38BDF8
-      path: profile/project-web.svg
-      token: ${{ secrets.GITHUB_TOKEN }}
-
-  - name: Generate LachoneteSystem
-    uses: stats-organization/github-readme-stats-action@v2
-    with:
-      card: pin
-      options: username=${{ github.repository_owner }}&repo=LachoneteSystem&hide_border=true&bg_color=0B0F14&title_color=7DD3FC&text_color=CBD5E1&icon_color=38BDF8
-      path: profile/project-lanchonete.svg
-      token: ${{ secrets.GITHUB_TOKEN }}
-
-  - name: Generate JavaAulas
-    uses: stats-organization/github-readme-stats-action@v2
-    with:
-      card: pin
-      options: username=${{ github.repository_owner }}&repo=JavaAulas&hide_border=true&bg_color=0B0F14&title_color=7DD3FC&text_color=CBD5E1&icon_color=38BDF8
-      path: profile/project-java.svg
-      token: ${{ secrets.GITHUB_TOKEN }}
-
-  - name: Generate Activity Graph
-    uses: maurodesouza/github-readme-activity-graph-action@v1
-    with:
-      username: ${{ github.repository_owner }}
-      options: bg_color=0B0F14&color=7DD3FC&line=38BDF8&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Activity
-      output_path: profile/activity.svg
-      token: ${{ secrets.GITHUB_TOKEN }}
-
-  - name: Generate Trophies
-    uses: soulteary/github-profile-trophy-action@v1.0.0
-    with:
-      options: username=${{ github.repository_owner }}&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6
-      path: profile/trophies.svg
-      token: ${{ secrets.GITHUB_TOKEN }}
-
-  - name: Generate Streak
-    uses: DenverCoder1/github-readme-streak-stats@main
-    with:
-      options: user=${{ github.repository_owner }}&background=0B0F14&ring=38BDF8&fire=7DD3FC&currStreakLabel=7DD3FC&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&hide_border=true&disable_animations=true
-      path: profile/streak.svg
-      token: ${{ secrets.GITHUB_TOKEN }}
-
-  - name: Commit generated files
-    run: |
-      git config user.name "github-actions[bot]"
-      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-      git add profile/*.svg
-
-      if git diff --cached --quiet; then
-        echo "No changes to commit."
-        exit 0
-      fi
-
-      git commit -m "chore: update profile statistics"
-      git push
+    steps:
+      - name: Testando GitHub Actions
+        run: |
+          echo "GitHub Actions funcionando!"
+          echo "Repository: ${{ github.repository }}"
+          echo "Branch: ${{ github.ref }}"
+          echo "Evento: ${{ github.event_name }}"
