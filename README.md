@@ -160,13 +160,10 @@ P.Demeris@GitHub
 ## 📈 Activity
 
 <div align="center">
-
-<img
-  src="./profile/activity.svg"
-  width="100%"
-  alt="GitHub Activity Graph"
-/>
-
+  <img
+    src="https://raw.githubusercontent.com/PauloD13/PauloD13/activity/activity-graph.svg"
+    alt="GitHub Activity Graph"
+  />
 </div>
 
 ---
