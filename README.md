@@ -83,7 +83,7 @@ Projetos desenvolvidos durante meu processo de aprendizado e experimentação.
 
 <a href="https://github.com/PauloD13/WebAppliSocialViolenceGame">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=PauloD13&repo=WebAppliSocialViolenceGame&hide_border=true&bg_color=0B0F14&title_color=7DD3FC&text_color=CBD5E1&icon_color=38BDF8"
+    src="./profile/project-web.svg"
     height="120"
     alt="WebAppliSocialViolenceGame"
   />
@@ -91,7 +91,7 @@ Projetos desenvolvidos durante meu processo de aprendizado e experimentação.
 
 <a href="https://github.com/PauloD13/LachoneteSystem">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=PauloD13&repo=LachoneteSystem&hide_border=true&bg_color=0B0F14&title_color=7DD3FC&text_color=CBD5E1&icon_color=38BDF8"
+    src="./profile/project-lanchonete.svg"
     height="120"
     alt="LachoneteSystem"
   />
@@ -99,7 +99,7 @@ Projetos desenvolvidos durante meu processo de aprendizado e experimentação.
 
 <a href="https://github.com/PauloD13/JavaAulas">
   <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=PauloD13&repo=JavaAulas&hide_border=true&bg_color=0B0F14&title_color=7DD3FC&text_color=CBD5E1&icon_color=38BDF8"
+    src="./profile/project-java.svg"
     height="120"
     alt="JavaAulas"
   />
@@ -129,8 +129,6 @@ P.Demeris@GitHub
 
 <div align="center">
 
-<div align="center">
-
 <img
   src="./profile/stats.svg"
   height="180"
@@ -150,9 +148,9 @@ P.Demeris@GitHub
 <div align="center">
 
 <img
-src="https://streak-stats.demolab.com/?user=PauloD13&hide_border=true&background=0B0F14&ring=38BDF8&fire=7DD3FC&currStreakLabel=7DD3FC&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"
-width="700"
-alt="GitHub Streak"
+  src="./profile/streak.svg"
+  width="700"
+  alt="GitHub Streak"
 />
 
 </div>
@@ -164,9 +162,9 @@ alt="GitHub Streak"
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=PauloD13&bg_color=0B0F14&color=7DD3FC&line=38BDF8&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Activity"
-width="100%"
-alt="GitHub Activity Graph"
+  src="./profile/activity.svg"
+  width="100%"
+  alt="GitHub Activity Graph"
 />
 
 </div>
@@ -178,9 +176,9 @@ alt="GitHub Activity Graph"
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=PauloD13&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"
-width="100%"
-alt="GitHub Trophies"
+  src="./profile/trophies.svg"
+  width="100%"
+  alt="GitHub Trophies"
 />
 
 </div>
