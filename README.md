@@ -130,15 +130,15 @@ P.Demeris@GitHub
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=PauloD13&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0B0F14&title_color=7DD3FC&text_color=CBD5E1&icon_color=38BDF8"
-height="180"
-alt="GitHub Stats"
+  src="./profile/stats.svg"
+  height="180"
+  alt="GitHub Stats"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloD13&layout=compact&langs_count=8&hide_border=true&bg_color=0B0F14&title_color=7DD3FC&text_color=CBD5E1"
-height="180"
-alt="Top Languages"
+  src="./profile/top-langs.svg"
+  height="180"
+  alt="Top Languages"
 />
 
 </div>
