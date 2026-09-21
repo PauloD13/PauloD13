@@ -9,7 +9,7 @@
   <br />
 
 <img
- src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3200&pause=900&color=7DD3FC&center=true&vCenter=true&width=800&height=60&lines=Fullstack+Developer;Java+%7C+TypeScript+%7C+Node.js;Construindo%2C+testando+e+aprendendo"
+ src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3200&pause=900&color=7DD3FC&center=true&vCenter=true&width=800&height=60&lines=Fullstack+Developer;Java+%7C+TypeScript+%7C+Node.js;Engineering%2C+securing+and+scaling"
  alt="Typing animation"
 />
 
@@ -35,11 +35,11 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **Paulo Demeris**, também conhecido como **P.Demeris**.
+Sou **Paulo Demeris**, também conhecido como **Demeris**.
 
-Sou **Fullstack Developer** e estudante, com **Java, TypeScript e Node.js** como principais tecnologias no meu desenvolvimento.
+Sou **Desenvolvedor Fullstack** e estudante, com **Java, TypeScript e Node.js** como as principais tecnologias usadas por mim.
 
-Também trabalho e estudo com **Python, JavaScript, AWS, Git, Bash, PowerShell e PostgreSQL**, além de outras ferramentas do ecossistema de desenvolvimento.
+Também trabalho com **Python, JavaScript, AWS, Git, Bash, PowerShell e PostgreSQL**, além de outras ferramentas do ecossistema de desenvolvimento.
 
 Meu GitHub reúne principalmente **projetos de estudo, experimentos e aplicações desenvolvidas durante meu processo de aprendizado**.
 
