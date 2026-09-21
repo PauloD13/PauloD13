@@ -171,7 +171,7 @@ P.Demeris@GitHub
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -185,7 +185,7 @@ P.Demeris@GitHub
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution
 
 <div align="center">
 
