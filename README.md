@@ -130,7 +130,7 @@ P.Demeris@GitHub
 <div align="center">
 
 <img
-  src="./workflows/stats.svg"
+  src="./profile/stats.svg"
   height="180"
   alt="GitHub Stats"
 />
