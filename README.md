@@ -157,10 +157,10 @@ P.Demeris@GitHub
 ## 📈 Activity
 
 <div align="center">
-  <img
-    src="https://raw.githubusercontent.com/PauloD13/PauloD13/activity/activity-graph.svg"
-    alt="GitHub Activity Graph"
-  />
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PauloD13/PauloD13/activity/activity-graph-light.svg">
+    <img src="https://raw.githubusercontent.com/PauloD13/PauloD13/activity/activity-graph.svg" alt="GitHub Activity Graph" />
+  </picture>
 </div>
 
 ---

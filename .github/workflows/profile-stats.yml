@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - "profile/**"
 
   schedule:
     - cron: "0 0 * * *"
@@ -14,7 +16,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: update-profile-stats
+  group: update-profile-assets
   cancel-in-progress: false
 
 jobs:
