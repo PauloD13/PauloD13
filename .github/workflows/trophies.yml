@@ -34,6 +34,14 @@ jobs:
           path: profile/trophies.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+
+      - name: Generate light trophies
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: "username=${{ github.repository_owner }}&theme=flat&no-frame=true&no-bg=true&margin-w=8&column=6"
+          path: profile/trophies-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit trophies
         run: |
           git config user.name "github-actions[bot]"
