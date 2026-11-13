@@ -33,6 +33,13 @@ jobs:
           options: user=${{ github.repository_owner }}&background=0B0F14&ring=38BDF8&fire=7DD3FC&currStreakLabel=7DD3FC&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8&hide_border=true&disable_animations=true
           path: profile/streak.svg
 
+
+      - name: Generate light streak stats
+        uses: DenverCoder1/github-readme-streak-stats@v1
+        with:
+          options: user=${{ github.repository_owner }}&background=FFFFFF&ring=0284C7&fire=0369A1&currStreakLabel=0369A1&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=64748B&hide_border=true&disable_animations=true
+          path: profile/streak-light.svg
+
       - name: Commit streak stats
         run: |
           git config user.name "github-actions[bot]"
