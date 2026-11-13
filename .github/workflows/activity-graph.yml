@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - "profile/**"
 
   schedule:
     - cron: "0 */12 * * *"
@@ -27,6 +29,14 @@ jobs:
           username: ${{ github.repository_owner }}
           options: "theme=github-dark&bg_color=0B0F14&color=7DD3FC&line=38BDF8&point=FFFFFF&area=true&hide_border=true&custom_title=GitHub%20Activity"
           output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate light activity graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: "theme=github&bg_color=FFFFFF&color=334155&line=0284C7&point=0F172A&area=true&hide_border=true&custom_title=GitHub%20Activity"
+          output_path: dist/activity-graph-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Publish activity graph
