@@ -129,17 +129,11 @@ P.Demeris@GitHub
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile/stats-light.svg">
-  <img src="./profile/stats-light.svg" height="180" alt="GitHub Stats" />
-</picture>
+<img src="./profile/stats.svg#gh-dark-mode-only" height="180" alt="GitHub Stats" />
+<img src="./profile/stats-light.svg#gh-light-mode-only" height="180" alt="GitHub Stats" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs-light.svg">
-  <img src="./profile/top-langs-light.svg" height="180" alt="Top Languages" />
-</picture>
+<img src="./profile/top-langs.svg#gh-dark-mode-only" height="180" alt="Top Languages" />
+<img src="./profile/top-langs-light.svg#gh-light-mode-only" height="180" alt="Top Languages" />
 
 </div>
 
@@ -147,11 +141,8 @@ P.Demeris@GitHub
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/streak.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile/streak-light.svg">
-  <img src="./profile/streak.svg" width="700" alt="GitHub Streak" />
-</picture>
+<img src="./profile/streak.svg#gh-dark-mode-only" width="700" alt="GitHub Streak" />
+<img src="./profile/streak-light.svg#gh-light-mode-only" width="700" alt="GitHub Streak" />
 
 </div>
 
@@ -160,11 +151,8 @@ P.Demeris@GitHub
 ## 📈 Activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PauloD13/PauloD13/activity/activity-graph.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PauloD13/PauloD13/activity/activity-graph-light.svg">
-    <img src="https://raw.githubusercontent.com/PauloD13/PauloD13/activity/activity-graph-light.svg" alt="GitHub Activity Graph" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/PauloD13/PauloD13/activity/activity-graph.svg#gh-dark-mode-only" alt="GitHub Activity Graph" />
+  <img src="https://raw.githubusercontent.com/PauloD13/PauloD13/activity/activity-graph-light.svg#gh-light-mode-only" alt="GitHub Activity Graph" />
 </div>
 
 ---
@@ -173,11 +161,8 @@ P.Demeris@GitHub
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/trophies.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile/trophies-light.svg">
-  <img src="./profile/trophies-light.svg" width="100%" alt="GitHub Trophies" />
-</picture>
+<img src="./profile/trophies.svg#gh-dark-mode-only" width="100%" alt="GitHub Trophies" />
+<img src="./profile/trophies-light.svg#gh-light-mode-only" width="100%" alt="GitHub Trophies" />
 
 </div>
 
@@ -186,11 +171,8 @@ P.Demeris@GitHub
 ## Contribution
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PauloD13/PauloD13/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PauloD13/PauloD13/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/PauloD13/PauloD13/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-  </picture>
+  <img src="https://raw.githubusercontent.com/PauloD13/PauloD13/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/PauloD13/PauloD13/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Snake" />
 </p>
 
 ---
