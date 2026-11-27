@@ -75,6 +75,37 @@ Meu GitHub reúne principalmente **projetos de estudo, experimentos e aplicaçõ
 
 ---
 
+## 🏆 Certificações
+
+Certificações associadas à minha área de atuação em desenvolvimento e engenharia de software.
+
+<div align="center">
+
+<!--
+  Para adicionar outra certificação, copie um bloco <td> e ajuste nome, cor, logo e link da credencial.
+-->
+
+<table>
+  <tr>
+    <td align="center" width="260">
+      <a href="https://learn.microsoft.com/api/credentials/share/pt-br/PauloDemeris-4046/E62B029A35170D6B?sharingId=9D85BEDF3D864D7D">
+        <img
+          src="https://img.shields.io/badge/GitHub-Foundations-0B0F14?style=for-the-badge&logo=github&logoColor=7DD3FC"
+          alt="GitHub Foundations"
+        />
+      </a>
+      <br /><br />
+      <b>GitHub Foundations</b>
+      <br />
+      <sub>GitHub • Controle de versão, colaboração e fluxo de trabalho no GitHub</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
 ## 📂 Projetos de estudo
 
 Projetos desenvolvidos durante meu processo de aprendizado e experimentação.
@@ -120,6 +151,8 @@ P.Demeris@GitHub
 ├── Python
 ├── AWS
 ├── PostgreSQL
+├── Certificações
+│   └── GitHub Foundations
 └── Estudo • Experimentação • Desenvolvimento
 ```
 
