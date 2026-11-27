@@ -77,8 +77,6 @@ Meu GitHub reúne principalmente **projetos de estudo, experimentos e aplicaçõ
 
 ## 🏆 Certificações
 
-Certificações associadas à minha área de atuação em desenvolvimento e engenharia de software.
-
 <div align="center">
 
 <!--
